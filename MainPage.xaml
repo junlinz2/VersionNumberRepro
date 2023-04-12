@@ -29,9 +29,9 @@
                 HorizontalOptions="Center" />
 
             <Button
-                x:Name="CounterBtn"
+                x:Name="VersionInfoBtn"
                 Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
+                SemanticProperties.Hint="Get version info"
                 Clicked="OnVersionInfoClicked"
                 HorizontalOptions="Center" />
 
